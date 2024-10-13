@@ -1,0 +1,1554 @@
+{
+  "AWS-Clean-Rooms": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "AWS-Data-Exchange": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "AWS-Data-Pipeline": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "AWS-Entity-Resolution": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "AWS-Glue-DataBrew": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "AWS-Glue-Elastic-Views": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "AWS-Glue": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "AWS-Lake-Formation": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "Amazon-Athena": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "Amazon-CloudSearch": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "Amazon-Data-Firehose": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "Amazon-DataZone": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "Amazon-EMR": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "Amazon-FinSpace": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "Amazon-Kinesis-Data-Streams": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "Amazon-Kinesis-Video-Streams": {
+    "categories": [
+      "Analytics",
+      "Media-Services"
+    ]
+  },
+  "Amazon-Kinesis": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "Amazon-Managed-Service-for-Apache-Flink": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "Amazon-Managed-Streaming-for-Apache-Kafka": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "Amazon-OpenSearch-Service": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "Amazon-QuickSight": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "Amazon-Redshift": {
+    "categories": [
+      "Analytics"
+    ]
+  },
+  "AWS-AppSync": {
+    "categories": [
+      "App-Integration"
+    ]
+  },
+  "AWS-B2B-Data-Interchange": {
+    "categories": [
+      "App-Integration"
+    ]
+  },
+  "AWS-Express-Workflows": {
+    "categories": [
+      "App-Integration"
+    ]
+  },
+  "AWS-Step-Functions": {
+    "categories": [
+      "App-Integration"
+    ]
+  },
+  "Amazon-AppFlow": {
+    "categories": [
+      "App-Integration"
+    ]
+  },
+  "Amazon-EventBridge": {
+    "categories": [
+      "App-Integration"
+    ]
+  },
+  "Amazon-MQ": {
+    "categories": [
+      "App-Integration"
+    ]
+  },
+  "Amazon-Managed-Workflows-for-Apache-Airflow": {
+    "categories": [
+      "App-Integration"
+    ]
+  },
+  "Amazon-Simple-Notification-Service": {
+    "categories": [
+      "App-Integration"
+    ]
+  },
+  "Amazon-Simple-Queue-Service": {
+    "categories": [
+      "App-Integration"
+    ]
+  },
+  "AWS-Deep-Learning-AMIs": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "AWS-Deep-Learning-Containers": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "AWS-DeepComposer": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "AWS-DeepLens": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "AWS-DeepRacer": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "AWS-HealthImaging": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "AWS-HealthLake": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "AWS-HealthOmics": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "AWS-HealthScribe": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "AWS-Neuron": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "AWS-Panorama": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Augmented-AI-A2I": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Bedrock": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-CodeGuru": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-CodeWhisperer": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Comprehend-Medical": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Comprehend": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-DevOps-Guru": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Elastic-Inference": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Forecast": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Fraud-Detector": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Kendra": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Lex": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Lookout-for-Equipment": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Lookout-for-Metrics": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Lookout-for-Vision": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Monitron": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Personalize": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Polly": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Q": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Rekognition": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-SageMaker-Ground-Truth": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-SageMaker-Studio-Lab": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-SageMaker": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Textract": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Transcribe": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Translate": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Apache-MXNet-on-AWS": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "PyTorch-on-AWS": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "TensorFlow-on-AWS": {
+    "categories": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Amazon-Managed-Blockchain": {
+    "categories": [
+      "Blockchain"
+    ]
+  },
+  "Amazon-Quantum-Ledger-Database": {
+    "categories": [
+      "Blockchain"
+    ]
+  },
+  "AWS-AppFabric": {
+    "categories": [
+      "Business-Applications"
+    ]
+  },
+  "AWS-Supply-Chain": {
+    "categories": [
+      "Business-Applications"
+    ]
+  },
+  "AWS-Wickr": {
+    "categories": [
+      "Business-Applications"
+    ]
+  },
+  "Alexa-For-Business": {
+    "categories": [
+      "Business-Applications"
+    ]
+  },
+  "Amazon-Chime-SDK": {
+    "categories": [
+      "Business-Applications"
+    ]
+  },
+  "Amazon-Chime": {
+    "categories": [
+      "Business-Applications"
+    ]
+  },
+  "Amazon-Connect": {
+    "categories": [
+      "Business-Applications"
+    ]
+  },
+  "Amazon-Pinpoint-APIs": {
+    "categories": [
+      "Business-Applications"
+    ]
+  },
+  "Amazon-Pinpoint": {
+    "categories": [
+      "Business-Applications"
+    ]
+  },
+  "Amazon-Simple-Email-Service": {
+    "categories": [
+      "Business-Applications"
+    ]
+  },
+  "Amazon-WorkDocs-SDK": {
+    "categories": [
+      "Business-Applications"
+    ]
+  },
+  "Amazon-WorkDocs": {
+    "categories": [
+      "Business-Applications"
+    ]
+  },
+  "Amazon-WorkMail": {
+    "categories": [
+      "Business-Applications"
+    ]
+  },
+  "AWS-Application-Cost-Profiler": {
+    "categories": [
+      "Cloud-Financial-Management"
+    ]
+  },
+  "AWS-Billing-Conductor": {
+    "categories": [
+      "Cloud-Financial-Management"
+    ]
+  },
+  "AWS-Budgets": {
+    "categories": [
+      "Cloud-Financial-Management"
+    ]
+  },
+  "AWS-Cost-Explorer": {
+    "categories": [
+      "Cloud-Financial-Management"
+    ]
+  },
+  "AWS-Cost-and-Usage-Report": {
+    "categories": [
+      "Cloud-Financial-Management"
+    ]
+  },
+  "Reserved-Instance-Reporting": {
+    "categories": [
+      "Cloud-Financial-Management"
+    ]
+  },
+  "Savings-Plans": {
+    "categories": [
+      "Cloud-Financial-Management"
+    ]
+  },
+  "AWS-App-Runner": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "AWS-Batch": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "AWS-Compute-Optimizer": {
+    "categories": [
+      "Compute",
+      "Management-Governance"
+    ]
+  },
+  "AWS-Elastic-Beanstalk": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "AWS-Lambda": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "AWS-Local-Zones": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "AWS-Nitro-Enclaves": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "AWS-Outposts-family": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "AWS-Outposts-rack": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "AWS-Outposts-servers": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "AWS-Parallel-Cluster": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "AWS-Serverless-Application-Repository": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "AWS-SimSpace-Weaver": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "AWS-Thinkbox-Deadline": {
+    "categories": [
+      "Compute",
+      "Media-Services"
+    ]
+  },
+  "AWS-Thinkbox-Frost": {
+    "categories": [
+      "Compute",
+      "Media-Services"
+    ]
+  },
+  "AWS-Thinkbox-Krakatoa": {
+    "categories": [
+      "Compute",
+      "Media-Services"
+    ]
+  },
+  "AWS-Thinkbox-Sequoia": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "AWS-Thinkbox-Stoke": {
+    "categories": [
+      "Compute",
+      "Media-Services"
+    ]
+  },
+  "AWS-Thinkbox-XMesh": {
+    "categories": [
+      "Compute",
+      "Media-Services"
+    ]
+  },
+  "AWS-Wavelength": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "Amazon-EC2-Auto-Scaling": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "Amazon-EC2-Image-Builder": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "Amazon-EC2": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "Amazon-Lightsail-for-Research": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "Amazon-Lightsail": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "Bottlerocket": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "Elastic-Fabric-Adapter": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "NICE-DCV": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "NICE-EnginFrame": {
+    "categories": [
+      "Compute"
+    ]
+  },
+  "AWS-Fargate": {
+    "categories": [
+      "Containers"
+    ]
+  },
+  "Amazon-ECS-Anywhere": {
+    "categories": [
+      "Containers"
+    ]
+  },
+  "Amazon-EKS-Anywhere": {
+    "categories": [
+      "Containers"
+    ]
+  },
+  "Amazon-EKS-Cloud": {
+    "categories": [
+      "Containers"
+    ]
+  },
+  "Amazon-EKS-Distro": {
+    "categories": [
+      "Containers"
+    ]
+  },
+  "Amazon-Elastic-Container-Registry": {
+    "categories": [
+      "Containers"
+    ]
+  },
+  "Amazon-Elastic-Container-Service": {
+    "categories": [
+      "Containers"
+    ]
+  },
+  "Amazon-Elastic-Kubernetes-Service": {
+    "categories": [
+      "Containers"
+    ]
+  },
+  "Red-Hat-OpenShift-Service-on-AWS": {
+    "categories": [
+      "Containers"
+    ]
+  },
+  "AWS-Activate": {
+    "categories": [
+      "Customer-Enablement"
+    ]
+  },
+  "AWS-IQ": {
+    "categories": [
+      "Customer-Enablement"
+    ]
+  },
+  "AWS-Managed-Services": {
+    "categories": [
+      "Customer-Enablement"
+    ]
+  },
+  "AWS-Professional-Services": {
+    "categories": [
+      "Customer-Enablement"
+    ]
+  },
+  "AWS-Support": {
+    "categories": [
+      "Customer-Enablement"
+    ]
+  },
+  "AWS-Training-Certification": {
+    "categories": [
+      "Customer-Enablement"
+    ]
+  },
+  "AWS-rePost-Private": {
+    "categories": [
+      "Customer-Enablement"
+    ]
+  },
+  "AWS-rePost": {
+    "categories": [
+      "Customer-Enablement"
+    ]
+  },
+  "AWS-Database-Migration-Service": {
+    "categories": [
+      "Database"
+    ]
+  },
+  "Amazon-Aurora": {
+    "categories": [
+      "Database"
+    ]
+  },
+  "Amazon-DocumentDB": {
+    "categories": [
+      "Database"
+    ]
+  },
+  "Amazon-DynamoDB": {
+    "categories": [
+      "Database"
+    ]
+  },
+  "Amazon-ElastiCache": {
+    "categories": [
+      "Database"
+    ]
+  },
+  "Amazon-Keyspaces": {
+    "categories": [
+      "Database"
+    ]
+  },
+  "Amazon-MemoryDB-for-Redis": {
+    "categories": [
+      "Database"
+    ]
+  },
+  "Amazon-Neptune": {
+    "categories": [
+      "Database"
+    ]
+  },
+  "Amazon-RDS-on-VMware": {
+    "categories": [
+      "Database"
+    ]
+  },
+  "Amazon-RDS": {
+    "categories": [
+      "Database"
+    ]
+  },
+  "Amazon-Timestream": {
+    "categories": [
+      "Database"
+    ]
+  },
+  "AWS-Application-Composer": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "AWS-Cloud-Control-API": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "AWS-Cloud-Development-Kit": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "AWS-Cloud9": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "AWS-CloudShell": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "AWS-CodeArtifact": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "AWS-CodeBuild": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "AWS-CodeCommit": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "AWS-CodeDeploy": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "AWS-CodePipeline": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "AWS-CodeStar": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "AWS-Command-Line-Interface": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "AWS-Fault-Injection-Service": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "AWS-Tools-and-SDKs": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "AWS-X-Ray": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "Amazon-CodeCatalyst": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "Amazon-Corretto": {
+    "categories": [
+      "Developer-Tools"
+    ]
+  },
+  "Amazon-AppStream-2": {
+    "categories": [
+      "End-User-Computing"
+    ]
+  },
+  "Amazon-WorkSpaces-Family": {
+    "categories": [
+      "End-User-Computing"
+    ]
+  },
+  "Amazon-WorkSpaces-Thin-Client": {
+    "categories": [
+      "End-User-Computing"
+    ]
+  },
+  "AWS-Amplify": {
+    "categories": [
+      "Front-End-Web-Mobile"
+    ]
+  },
+  "AWS-Device-Farm": {
+    "categories": [
+      "Front-End-Web-Mobile"
+    ]
+  },
+  "Amazon-Location-Service": {
+    "categories": [
+      "Front-End-Web-Mobile"
+    ]
+  },
+  "AWS-GameKit": {
+    "categories": [
+      "Games"
+    ]
+  },
+  "Amazon-GameLift": {
+    "categories": [
+      "Games"
+    ]
+  },
+  "Amazon-GameSparks": {
+    "categories": [
+      "Games"
+    ]
+  },
+  "Open-3D-Engine": {
+    "categories": [
+      "Games"
+    ]
+  },
+  "AWS-Marketplace_Dark": {
+    "categories": [
+      "General-Icons"
+    ]
+  },
+  "AWS-Marketplace_Light": {
+    "categories": [
+      "General-Icons"
+    ]
+  },
+  "AWS-IoT-1-Click": {
+    "categories": [
+      "Internet-of-Things"
+    ]
+  },
+  "AWS-IoT-Analytics": {
+    "categories": [
+      "Internet-of-Things"
+    ]
+  },
+  "AWS-IoT-Button": {
+    "categories": [
+      "Internet-of-Things"
+    ]
+  },
+  "AWS-IoT-Core": {
+    "categories": [
+      "Internet-of-Things"
+    ]
+  },
+  "AWS-IoT-Device-Defender": {
+    "categories": [
+      "Internet-of-Things"
+    ]
+  },
+  "AWS-IoT-Device-Management": {
+    "categories": [
+      "Internet-of-Things"
+    ]
+  },
+  "AWS-IoT-Events": {
+    "categories": [
+      "Internet-of-Things"
+    ]
+  },
+  "AWS-IoT-ExpressLink": {
+    "categories": [
+      "Internet-of-Things"
+    ]
+  },
+  "AWS-IoT-FleetWise": {
+    "categories": [
+      "Internet-of-Things"
+    ]
+  },
+  "AWS-IoT-Greengrass": {
+    "categories": [
+      "Internet-of-Things"
+    ]
+  },
+  "AWS-IoT-RoboRunner": {
+    "categories": [
+      "Internet-of-Things"
+    ]
+  },
+  "AWS-IoT-SiteWise": {
+    "categories": [
+      "Internet-of-Things"
+    ]
+  },
+  "AWS-IoT-TwinMaker": {
+    "categories": [
+      "Internet-of-Things"
+    ]
+  },
+  "FreeRTOS": {
+    "categories": [
+      "Internet-of-Things"
+    ]
+  },
+  "AWS-AppConfig": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Application-Auto-Scaling": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Auto-Scaling": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Backint-Agent": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Chatbot": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-CloudFormation": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-CloudTrail": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Config": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Console-Mobile-Application": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Control-Tower": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Distro-for-OpenTelemetry": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Health-Dashboard": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Launch-Wizard": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-License-Manager": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Management-Console": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-OpsWorks": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Organizations": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Proton": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Resilience-Hub": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Resource-Explorer": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Service-Catalog": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Service-Management-Connector": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Systems-Manager": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Telco-Network-Builder": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Trusted-Advisor": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Well-Architected-Tool": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "Amazon-CloudWatch": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "Amazon-Managed-Grafana": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "Amazon-Managed-Service-for-Prometheus": {
+    "categories": [
+      "Management-Governance"
+    ]
+  },
+  "AWS-Deadline-Cloud": {
+    "categories": [
+      "Media-Services"
+    ]
+  },
+  "AWS-Elemental-Appliances-&-Software": {
+    "categories": [
+      "Media-Services"
+    ]
+  },
+  "AWS-Elemental-Conductor": {
+    "categories": [
+      "Media-Services"
+    ]
+  },
+  "AWS-Elemental-Delta": {
+    "categories": [
+      "Media-Services"
+    ]
+  },
+  "AWS-Elemental-Link": {
+    "categories": [
+      "Media-Services"
+    ]
+  },
+  "AWS-Elemental-Live": {
+    "categories": [
+      "Media-Services"
+    ]
+  },
+  "AWS-Elemental-MediaConnect": {
+    "categories": [
+      "Media-Services"
+    ]
+  },
+  "AWS-Elemental-MediaConvert": {
+    "categories": [
+      "Media-Services"
+    ]
+  },
+  "AWS-Elemental-MediaLive": {
+    "categories": [
+      "Media-Services"
+    ]
+  },
+  "AWS-Elemental-MediaPackage": {
+    "categories": [
+      "Media-Services"
+    ]
+  },
+  "AWS-Elemental-MediaStore": {
+    "categories": [
+      "Media-Services"
+    ]
+  },
+  "AWS-Elemental-MediaTailor": {
+    "categories": [
+      "Media-Services"
+    ]
+  },
+  "AWS-Elemental-Server": {
+    "categories": [
+      "Media-Services"
+    ]
+  },
+  "Amazon-Elastic-Transcoder": {
+    "categories": [
+      "Media-Services"
+    ]
+  },
+  "Amazon-Interactive-Video-Service": {
+    "categories": [
+      "Media-Services"
+    ]
+  },
+  "Amazon-Nimble-Studio": {
+    "categories": [
+      "Media-Services"
+    ]
+  },
+  "AWS-Application-Discovery-Service": {
+    "categories": [
+      "Migration-Modernization"
+    ]
+  },
+  "AWS-Application-Migration-Service": {
+    "categories": [
+      "Migration-Modernization"
+    ]
+  },
+  "AWS-DataSync": {
+    "categories": [
+      "Migration-Modernization"
+    ]
+  },
+  "AWS-Mainframe-Modernization": {
+    "categories": [
+      "Migration-Modernization"
+    ]
+  },
+  "AWS-Migration-Evaluator": {
+    "categories": [
+      "Migration-Modernization"
+    ]
+  },
+  "AWS-Migration-Hub": {
+    "categories": [
+      "Migration-Modernization"
+    ]
+  },
+  "AWS-Transfer-Family": {
+    "categories": [
+      "Migration-Modernization"
+    ]
+  },
+  "AWS-App-Mesh": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "AWS-Client-VPN": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "AWS-Cloud-Map": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "AWS-Cloud-WAN": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "AWS-Direct-Connect": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "AWS-Global-Accelerator": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "AWS-Private-5G": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "AWS-PrivateLink": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "AWS-Site-to-Site-VPN": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "AWS-Transit-Gateway": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "AWS-Verified-Access": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "Amazon-API-Gateway": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "Amazon-CloudFront": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "Amazon-Route-53": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "Amazon-VPC-Lattice": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "Amazon-Virtual-Private-Cloud": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "Elastic-Load-Balancing": {
+    "categories": [
+      "Networking-Content-Delivery"
+    ]
+  },
+  "Amazon-Braket": {
+    "categories": [
+      "Quantum-Technologies"
+    ]
+  },
+  "AWS-RoboMaker": {
+    "categories": [
+      "Robotics"
+    ]
+  },
+  "AWS-Ground-Station": {
+    "categories": [
+      "Satellite"
+    ]
+  },
+  "AWS-Artifact": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-Audit-Manager": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-Certificate-Manager": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-CloudHSM": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-Directory-Service": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-Firewall-Manager": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-IAM-Identity-Center": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-Identity-and-Access-Management": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-Key-Management-Service": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-Network-Firewall": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-Payment-Cryptography": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-Private-Certificate-Authority": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-Resource-Access-Manager": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-Secrets-Manager": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-Security-Hub": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-Shield": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-Signer": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-WAF": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "Amazon-Cloud-Directory": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "Amazon-Cognito": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "Amazon-Detective": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "Amazon-GuardDuty": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "Amazon-Inspector": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "Amazon-Macie": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "Amazon-Security-Lake": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "Amazon-Verified-Permissions": {
+    "categories": [
+      "Security-Identity-Compliance"
+    ]
+  },
+  "AWS-Backup": {
+    "categories": [
+      "Storage"
+    ]
+  },
+  "AWS-Elastic-Disaster-Recovery": {
+    "categories": [
+      "Storage"
+    ]
+  },
+  "AWS-Snowball-Edge": {
+    "categories": [
+      "Storage"
+    ]
+  },
+  "AWS-Snowball": {
+    "categories": [
+      "Storage"
+    ]
+  },
+  "AWS-Snowcone": {
+    "categories": [
+      "Storage"
+    ]
+  },
+  "AWS-Storage-Gateway": {
+    "categories": [
+      "Storage"
+    ]
+  },
+  "Amazon-EFS": {
+    "categories": [
+      "Storage"
+    ]
+  },
+  "Amazon-Elastic-Block-Store": {
+    "categories": [
+      "Storage"
+    ]
+  },
+  "Amazon-FSx-for-Lustre": {
+    "categories": [
+      "Storage"
+    ]
+  },
+  "Amazon-FSx-for-NetApp-ONTAP": {
+    "categories": [
+      "Storage"
+    ]
+  },
+  "Amazon-FSx-for-OpenZFS": {
+    "categories": [
+      "Storage"
+    ]
+  },
+  "Amazon-FSx-for-WFS": {
+    "categories": [
+      "Storage"
+    ]
+  },
+  "Amazon-FSx": {
+    "categories": [
+      "Storage"
+    ]
+  },
+  "Amazon-File-Cache": {
+    "categories": [
+      "Storage"
+    ]
+  },
+  "Amazon-S3-on-Outposts": {
+    "categories": [
+      "Storage"
+    ]
+  },
+  "Amazon-Simple-Storage-Service-Glacier": {
+    "categories": [
+      "Storage"
+    ]
+  },
+  "Amazon-Simple-Storage-Service": {
+    "categories": [
+      "Storage"
+    ]
+  }
+}
